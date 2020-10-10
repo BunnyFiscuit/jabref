@@ -1,0 +1,1 @@
+™_ 2javaX;hrAsrc/main/java/org/jabref/gui/customentrytypes/FieldViewModel.java

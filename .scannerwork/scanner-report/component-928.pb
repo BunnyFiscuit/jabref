@@ -1,0 +1,1 @@
+  2javaXshrNsrc/test/java/org/jabref/gui/autocompleter/BibEntrySuggestionProviderTest.java

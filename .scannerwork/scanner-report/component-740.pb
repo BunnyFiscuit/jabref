@@ -1,0 +1,1 @@
+ä 2javaXmhr?src/test/java/org/jabref/logic/layout/format/HTMLCharsTest.java

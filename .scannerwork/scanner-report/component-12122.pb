@@ -1,0 +1,1 @@
+Ú^ 2javaX(hr@src/main/java/org/jabref/gui/collab/EntryAddChangeViewModel.java

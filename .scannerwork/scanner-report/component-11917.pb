@@ -1,0 +1,1 @@
+ç] 2javaXÑhrJsrc/main/java/org/jabref/gui/commonfxcontrols/CitationKeyPatternPanel.java

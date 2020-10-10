@@ -1,0 +1,1 @@
+Á\ 2javaXhrCsrc/main/java/org/jabref/gui/util/uithreadaware/UiThreadHelper.java

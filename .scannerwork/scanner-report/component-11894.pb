@@ -1,0 +1,1 @@
+ö\ 2javaXhrFsrc/main/java/org/jabref/gui/maintable/columns/SpecialFieldColumn.java

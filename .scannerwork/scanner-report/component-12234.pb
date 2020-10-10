@@ -1,0 +1,1 @@
+Ê_ 2cssX‘hr8src/main/java/org/jabref/gui/entryeditor/EntryEditor.css

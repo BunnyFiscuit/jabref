@@ -1,0 +1,1 @@
+ø] 2javaX>hr?src/main/java/org/jabref/gui/copyfiles/CopyFilesDialogView.java

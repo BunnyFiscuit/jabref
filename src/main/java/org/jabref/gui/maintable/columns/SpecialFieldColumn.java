@@ -19,9 +19,8 @@ import org.jabref.gui.specialfields.SpecialFieldValueViewModel;
 import org.jabref.gui.specialfields.SpecialFieldViewModel;
 import org.jabref.gui.specialfields.SpecialFieldsPreferences;
 import org.jabref.gui.util.OptionalValueTableCellFactory;
-import org.jabref.gui.util.comparator.PriorityFieldComparator;
 import org.jabref.gui.util.comparator.RankingFieldComparator;
-import org.jabref.gui.util.comparator.ReadStatusFieldComparator;
+import org.jabref.gui.util.comparator.ReadStatusAndPriorityFieldComparator;
 import org.jabref.model.entry.BibEntry;
 import org.jabref.model.entry.field.FieldFactory;
 import org.jabref.model.entry.field.SpecialField;
@@ -55,6 +54,7 @@ public class SpecialFieldColumn extends MainTableColumn<Optional<SpecialFieldVal
             new OptionalValueTableCellFactory<BibEntryTableViewModel, SpecialFieldValueViewModel>()
                     .withGraphicIfPresent(this::createSpecialRating)
                     .install(this);
+            this.setComparator(new RankingFieldComparator()); // New: Moved up here
         } else {
             MainTableColumnFactory.setExactWidth(this, ColumnPreferences.ICON_COLUMN_WIDTH);
             this.setResizable(false);
@@ -78,17 +78,25 @@ public class SpecialFieldColumn extends MainTableColumn<Optional<SpecialFieldVal
 
         this.setCellValueFactory(cellData -> cellData.getValue().getSpecialField(specialField));
 
+        /* OLD
+        // Added comparator for Read Status
+        
         if (specialField == SpecialField.RANKING) {
             this.setComparator(new RankingFieldComparator());
         }
-
-        // Added comparator for Read Status
+        
         if (specialField == SpecialField.READ_STATUS) {
             this.setComparator(new ReadStatusFieldComparator());
         }
-
+        
         if (specialField == SpecialField.PRIORITY) {
             this.setComparator(new PriorityFieldComparator());
+        }
+        */
+
+        // NEW: they both set the same comparator
+        if ((specialField == SpecialField.READ_STATUS) || (specialField == SpecialField.PRIORITY)) {
+            this.setComparator(new ReadStatusAndPriorityFieldComparator());
         }
 
         this.setSortable(true);

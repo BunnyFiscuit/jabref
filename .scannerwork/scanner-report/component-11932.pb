@@ -1,0 +1,1 @@
+œ] 2javaX=hrLsrc/main/java/org/jabref/gui/protectedterms/NewProtectedTermsFileDialog.java

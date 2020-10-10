@@ -1,0 +1,1 @@
+œ 2javaX*hrOsrc/test/java/org/jabref/logic/formatter/bibtexfields/UnicodeConverterTest.java

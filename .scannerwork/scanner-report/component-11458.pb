@@ -1,0 +1,1 @@
+ÂY 2javaX4hrHsrc/main/java/org/jabref/logic/formatter/minifier/TruncateFormatter.java

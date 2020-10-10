@@ -1,0 +1,1 @@
+†Y 2javaXrhrEsrc/main/java/org/jabref/logic/protectedterms/ProtectedTermsList.java

@@ -1,0 +1,1 @@
+Å 2javaXóhr=src/test/java/org/jabref/logic/bibtex/BibEntryWriterTest.java

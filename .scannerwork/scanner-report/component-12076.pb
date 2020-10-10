@@ -1,0 +1,1 @@
+¬^ 2javaXˆhrNsrc/main/java/org/jabref/gui/journals/ManageJournalAbbreviationsViewModel.java

@@ -1,0 +1,1 @@
+„X 2javaX9hrEsrc/main/java/org/jabref/logic/importer/fetcher/BibsonomyScraper.java

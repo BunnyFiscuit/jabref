@@ -1,0 +1,1 @@
+‚X 2javaXGhrJsrc/main/java/org/jabref/logic/importer/fetcher/IsbnViaOttoBibFetcher.java

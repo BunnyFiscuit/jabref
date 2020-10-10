@@ -1,0 +1,1 @@
+ÂX 2javaX(hrIsrc/main/java/org/jabref/logic/layout/format/AuthorAndsCommaReplacer.java

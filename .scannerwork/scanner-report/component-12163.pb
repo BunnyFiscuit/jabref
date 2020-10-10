@@ -1,0 +1,1 @@
+ƒ_ 2javaXºhr6src/main/java/org/jabref/gui/preview/PreviewPanel.java

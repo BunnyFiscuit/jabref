@@ -1,0 +1,1 @@
+Ü_ 2javaXHhrKsrc/main/java/org/jabref/gui/openoffice/ManageCitationsDialogViewModel.java

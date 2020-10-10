@@ -1,0 +1,1 @@
+ 2javaX(hrSsrc/test/java/org/jabref/logic/citationkeypattern/MakeLabelWithoutDatabaseTest.java

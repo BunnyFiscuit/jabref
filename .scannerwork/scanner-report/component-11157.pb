@@ -1,0 +1,1 @@
+•W 2javaXÛhr;src/main/java/org/jabref/preferences/JabRefPreferences.java

@@ -1,0 +1,1 @@
+ø 2javaX!hr5src/test/java/org/jabref/logic/help/HelpFileTest.java

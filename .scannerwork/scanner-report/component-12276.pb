@@ -1,0 +1,1 @@
+ô_ 2javaX¦hrLsrc/main/java/org/jabref/gui/citationkeypattern/CitationKeyPatternPanel.java

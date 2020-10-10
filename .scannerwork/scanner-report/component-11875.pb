@@ -1,0 +1,1 @@
+ã\ 2javaXhr.src/main/java/org/jabref/gui/SidePaneType.java

@@ -1,0 +1,1 @@
+Œ^ 2javaXThr;src/main/java/org/jabref/gui/edit/ManageKeywordsDialog.java

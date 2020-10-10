@@ -1,0 +1,1 @@
+] 2javaXPhr6src/main/java/org/jabref/gui/BasePanelPreferences.java

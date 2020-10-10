@@ -1,0 +1,1 @@
+ö 2javaX hrHsrc/test/java/org/jabref/logic/layout/format/EntryTypeFormatterTest.java

@@ -1,0 +1,1 @@
+Ø[ 2javaX'hr<src/main/java/org/jabref/gui/fieldeditors/FieldEditorFX.java

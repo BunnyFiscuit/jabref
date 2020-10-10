@@ -1,0 +1,1 @@
+ÌZ 2javaXNhr8src/main/java/org/jabref/logic/exporter/XmpExporter.java

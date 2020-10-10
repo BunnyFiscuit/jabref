@@ -1,0 +1,1 @@
+Š] 2javaX]hrWsrc/main/java/org/jabref/gui/commonfxcontrols/FieldFormatterCleanupsPanelViewModel.java

@@ -1,0 +1,1 @@
+Á 2javaXhr6src/test/java/org/jabref/logic/util/BuildInfoTest.java

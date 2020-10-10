@@ -1,0 +1,1 @@
+Ù^ 2javaX6hr>src/main/java/org/jabref/gui/collab/StringChangeViewModel.java

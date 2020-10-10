@@ -1,0 +1,1 @@
+¹] 2javaX¦hr6src/main/java/org/jabref/gui/groups/GroupTreeView.java

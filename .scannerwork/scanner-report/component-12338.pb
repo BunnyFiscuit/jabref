@@ -1,0 +1,1 @@
+²` 2javaXÓhr>src/main/java/org/jabref/model/entry/BibEntryTypesManager.java

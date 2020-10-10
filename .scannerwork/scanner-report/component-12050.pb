@@ -1,0 +1,1 @@
+’^ 2javaXïhr5src/main/java/org/jabref/gui/edit/CopyMoreAction.java

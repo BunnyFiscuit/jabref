@@ -1,0 +1,1 @@
+Œ 2xmlXÀhr0src/main/resources/csl-locales/locales-tr-TR.xml

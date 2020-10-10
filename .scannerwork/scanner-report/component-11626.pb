@@ -1,0 +1,1 @@
+ÍZ 2javaXWhr=src/main/java/org/jabref/logic/auxparser/AuxParserResult.java

@@ -1,0 +1,1 @@
+¦_ 2javaX/hr5src/main/java/org/jabref/gui/logging/GuiAppender.java

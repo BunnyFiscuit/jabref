@@ -1,0 +1,1 @@
+¦[ 2javaXbhrFsrc/main/java/org/jabref/gui/preferences/PreferencesSearchHandler.java

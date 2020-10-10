@@ -1,0 +1,1 @@
+ÕY 2javaX$hrIsrc/main/java/org/jabref/logic/formatter/bibtexfields/ClearFormatter.java

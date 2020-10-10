@@ -1,0 +1,1 @@
+ÅX 2javaXLhr;src/main/java/org/jabref/logic/importer/fetcher/ZbMATH.java

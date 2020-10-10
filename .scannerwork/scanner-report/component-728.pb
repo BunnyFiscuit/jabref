@@ -1,0 +1,1 @@
+Ø 2javaXhrAsrc/test/java/org/jabref/logic/layout/format/RemoveTildeTest.java

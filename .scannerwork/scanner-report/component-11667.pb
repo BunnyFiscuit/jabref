@@ -1,0 +1,1 @@
+“[ 2javaXhrDsrc/main/java/org/jabref/architecture/ApacheCommonsLang3Allowed.java

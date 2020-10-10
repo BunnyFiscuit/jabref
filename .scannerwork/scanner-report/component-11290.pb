@@ -1,0 +1,1 @@
+šX 2javaXŽhrJsrc/main/java/org/jabref/logic/util/strings/HTMLUnicodeConversionMaps.java

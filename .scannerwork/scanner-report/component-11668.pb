@@ -1,0 +1,1 @@
+”[ 2javaXžhr3src/main/java/org/jabref/gui/SidePaneComponent.java

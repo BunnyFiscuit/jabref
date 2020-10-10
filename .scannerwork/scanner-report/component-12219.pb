@@ -1,0 +1,1 @@
+»_ 2javaXŸhr;src/main/java/org/jabref/gui/help/AboutDialogViewModel.java

@@ -1,0 +1,1 @@
+Ò^ 2javaX7hr@src/main/java/org/jabref/gui/collab/DatabaseChangeViewModel.java

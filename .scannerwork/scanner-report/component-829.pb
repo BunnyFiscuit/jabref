@@ -1,0 +1,1 @@
+½ 2javaX.hrPsrc/test/java/org/jabref/logic/bibtex/comparator/BibtexStringComparatorTest.java

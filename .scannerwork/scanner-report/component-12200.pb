@@ -1,0 +1,1 @@
+¨_ 2javaXƒhrEsrc/main/java/org/jabref/gui/logging/ApplicationInsightsLogEvent.java

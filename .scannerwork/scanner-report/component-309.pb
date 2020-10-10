@@ -1,0 +1,1 @@
+µ 2xmlXhrasrc/test/resources/org/jabref/logic/importer/fileformat/MedlinePlainImporterTestInvalidFormat.xml

@@ -1,0 +1,1 @@
+æ 2xmlX:hrPsrc/test/resources/org/jabref/logic/importer/fileformat/MODSImporterTestMods.xml

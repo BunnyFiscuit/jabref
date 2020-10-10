@@ -1,0 +1,1 @@
+â[ 2javaXJhrFsrc/main/java/org/jabref/gui/fieldeditors/MapBasedEditorViewModel.java

@@ -1,0 +1,1 @@
+ø^ 2javaXNhr8src/main/java/org/jabref/gui/filelist/FileListEntry.java

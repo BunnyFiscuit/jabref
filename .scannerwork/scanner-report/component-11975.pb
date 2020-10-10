@@ -1,0 +1,1 @@
+Ç] 2javaX©hr8src/main/java/org/jabref/gui/groups/GroupDialogView.java

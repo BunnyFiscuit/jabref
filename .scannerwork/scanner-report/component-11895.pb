@@ -1,0 +1,1 @@
+÷\ 2javaXXhrHsrc/main/java/org/jabref/gui/maintable/MainTableFieldValueFormatter.java

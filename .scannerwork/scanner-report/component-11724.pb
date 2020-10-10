@@ -1,0 +1,1 @@
+Ì[ 2javaXhrKsrc/main/java/org/jabref/gui/libraryproperties/LibraryPropertiesAction.java

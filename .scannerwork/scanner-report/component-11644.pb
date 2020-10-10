@@ -1,0 +1,1 @@
+üZ 2javaXÄhr;src/main/java/org/jabref/logic/bst/BibtexNameFormatter.java

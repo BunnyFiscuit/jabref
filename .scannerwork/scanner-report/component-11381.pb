@@ -1,0 +1,1 @@
+õX 2javaX6hrRsrc/main/java/org/jabref/logic/layout/format/ReplaceUnicodeLigaturesFormatter.java

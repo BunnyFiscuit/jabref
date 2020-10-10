@@ -1,0 +1,1 @@
+† 2javaXBhrGsrc/test/java/org/jabref/logic/importer/fetcher/INSPIREFetcherTest.java

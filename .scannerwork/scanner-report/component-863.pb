@@ -1,0 +1,1 @@
+ß 2javaXehrFsrc/test/java/org/jabref/logic/integrity/NoBibTexFieldCheckerTest.java

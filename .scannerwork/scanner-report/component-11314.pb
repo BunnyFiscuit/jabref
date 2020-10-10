@@ -1,0 +1,1 @@
+²X 2javaX§hr0src/main/java/org/jabref/logic/util/Version.java

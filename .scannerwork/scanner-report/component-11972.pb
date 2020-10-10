@@ -1,0 +1,1 @@
+Ä] 2javaXîhr;src/main/java/org/jabref/gui/groups/GroupNodeViewModel.java

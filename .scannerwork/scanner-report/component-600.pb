@@ -1,0 +1,1 @@
+Ø 2javaXhr6src/test/java/org/jabref/logic/l10n/EncodingsTest.java

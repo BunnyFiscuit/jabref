@@ -1,0 +1,1 @@
+£] 2javaX&hrDsrc/main/java/org/jabref/gui/auximport/AuxParserResultViewModel.java

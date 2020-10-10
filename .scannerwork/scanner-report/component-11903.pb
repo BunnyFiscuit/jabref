@@ -1,0 +1,1 @@
+ÿ\ 2javaXLhrJsrc/main/java/org/jabref/gui/bibtexextractor/BibtexExtractorViewModel.java

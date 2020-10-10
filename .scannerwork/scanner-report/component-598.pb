@@ -1,0 +1,1 @@
+Ö 2javaXÌhrDsrc/test/java/org/jabref/logic/l10n/LocalizationConsistencyTest.java

@@ -1,0 +1,1 @@
+˜ 2xmlXKhrUsrc/test/resources/org/jabref/logic/importer/fetcher/gvk_artificial_subtitle_test.xml

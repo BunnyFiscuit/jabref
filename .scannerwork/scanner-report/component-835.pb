@@ -1,0 +1,1 @@
+Ã 2javaX9hrDsrc/test/java/org/jabref/logic/bibtex/FieldContentFormatterTest.java

@@ -1,0 +1,1 @@
+ı] 2javaX<hrasrc/main/java/org/jabref/gui/search/rules/describer/ContainsAndRegexBasedSearchRuleDescriber.java

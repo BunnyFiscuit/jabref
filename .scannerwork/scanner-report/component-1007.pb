@@ -1,0 +1,1 @@
+ï 2xmlX’hr#src/main/resources/xjc/mods/xml.xsd

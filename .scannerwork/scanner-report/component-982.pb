@@ -1,0 +1,1 @@
+Ö 2javaX;hr7src/test/java/org/jabref/model/groups/TexGroupTest.java

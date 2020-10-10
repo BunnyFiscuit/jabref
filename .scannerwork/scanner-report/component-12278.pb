@@ -1,0 +1,1 @@
+ö_ 2javaX$hrEsrc/main/java/org/jabref/model/database/BibDatabaseModeDetection.java

@@ -1,0 +1,1 @@
+è` 2javaXXhrLsrc/main/java/org/jabref/model/entry/types/IEEETranEntryTypeDefinitions.java

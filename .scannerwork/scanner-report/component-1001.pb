@@ -1,0 +1,1 @@
+é 2xmlX†hr1src/main/resources/xjc/medline/bookdoc_160101.xsd

@@ -1,0 +1,1 @@
+ˆ 2xmlXhrIsrc/test/resources/org/jabref/logic/exporter/ModsExportFormatTestBook.xml

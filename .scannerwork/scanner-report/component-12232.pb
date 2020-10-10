@@ -1,0 +1,1 @@
+È_ 2javaX´hrHsrc/main/java/org/jabref/gui/entryeditor/LatexCitationsTabViewModel.java

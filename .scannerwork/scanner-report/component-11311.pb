@@ -1,0 +1,1 @@
+¯X 2javaXThr;src/main/java/org/jabref/logic/util/CoarseChangeFilter.java

@@ -1,0 +1,1 @@
+Ä 2javaXyhr>src/test/java/org/jabref/logic/bibtex/FileFieldWriterTest.java

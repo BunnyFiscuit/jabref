@@ -1,0 +1,1 @@
+€\ 2javaXBhrKsrc/main/java/org/jabref/gui/fieldeditors/LinkedEntriesEditorViewModel.java

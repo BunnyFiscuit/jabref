@@ -1,0 +1,1 @@
+Î^ 2javaX0hrBsrc/main/java/org/jabref/gui/collab/StringNameChangeViewModel.java

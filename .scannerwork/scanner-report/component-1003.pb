@@ -1,0 +1,1 @@
+ë 2xmlX—hr*src/main/resources/xjc/endnote/endnote.xsd

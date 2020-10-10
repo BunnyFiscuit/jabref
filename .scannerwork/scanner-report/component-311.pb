@@ -1,0 +1,1 @@
+· 2xmlXhrGsrc/test/resources/org/jabref/logic/importer/fileformat/MsBibPatent.xml

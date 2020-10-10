@@ -1,0 +1,1 @@
+þ^ 2javaXXhr@src/main/java/org/jabref/gui/integrity/IntegrityCheckAction.java

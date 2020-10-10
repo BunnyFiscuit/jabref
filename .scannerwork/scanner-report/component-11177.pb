@@ -1,0 +1,1 @@
+©W 2javaX¼hr5src/main/java/org/jabref/logic/l10n/Localization.java

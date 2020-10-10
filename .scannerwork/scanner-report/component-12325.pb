@@ -1,0 +1,1 @@
+¥` 2javaX5hr8src/main/java/org/jabref/model/entry/field/BibField.java

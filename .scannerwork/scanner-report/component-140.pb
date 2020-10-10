@@ -1,0 +1,1 @@
+Œ 2rubyXhr3scripts/remove-git-markers-in-localization-files.rb

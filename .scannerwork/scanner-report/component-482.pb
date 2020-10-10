@@ -1,0 +1,1 @@
+â 2xmlXRhrNsrc/test/resources/org/jabref/logic/exporter/ModsExportFormatTestAllFields.xml

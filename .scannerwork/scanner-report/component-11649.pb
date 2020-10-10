@@ -1,0 +1,1 @@
+Å[ 2javaXDhr:src/main/java/org/jabref/logic/bst/FormatNameFunction.java

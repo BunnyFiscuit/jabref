@@ -1,0 +1,1 @@
+´ 2xmlXhrSsrc/test/resources/org/jabref/logic/importer/fileformat/MODSImporterTestMinimal.xml

@@ -1,0 +1,1 @@
+_ 2javaXÑhr<src/main/java/org/jabref/gui/preview/CopyCitationAction.java

@@ -1,0 +1,1 @@
+°_ 2javaXŽhr>src/main/java/org/jabref/gui/keyboard/KeyBindingViewModel.java

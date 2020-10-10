@@ -1,0 +1,1 @@
+Ž 2javaXŠhrNsrc/test/java/org/jabref/logic/journals/JournalAbbreviationRepositoryTest.java

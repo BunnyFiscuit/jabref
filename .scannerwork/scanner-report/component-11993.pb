@@ -1,0 +1,1 @@
+Ù] 2javaX1hrJsrc/main/java/org/jabref/gui/autocompleter/BibEntrySuggestionProvider.java

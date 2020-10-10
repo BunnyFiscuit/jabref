@@ -1,0 +1,1 @@
+ê 2javaXhrCsrc/test/java/org/jabref/logic/formatter/IdentityFormatterTest.java

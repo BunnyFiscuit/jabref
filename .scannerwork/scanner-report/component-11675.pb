@@ -1,0 +1,1 @@
+›[ 2javaX6hrDsrc/main/java/org/jabref/gui/preferences/NameFormatterItemModel.java

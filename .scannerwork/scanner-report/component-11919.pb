@@ -1,0 +1,1 @@
+] 2cssXhr>src/main/java/org/jabref/gui/documentviewer/DocumentViewer.css

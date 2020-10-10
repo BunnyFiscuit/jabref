@@ -1,0 +1,1 @@
+È\ 2javaXqhr7src/main/java/org/jabref/gui/util/component/TagBar.java

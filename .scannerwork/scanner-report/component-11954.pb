@@ -1,0 +1,1 @@
+²] 2javaXøhrKsrc/main/java/org/jabref/gui/shared/SharedDatabaseLoginDialogViewModel.java

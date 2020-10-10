@@ -1,0 +1,1 @@
+ÄY 2javaX(hrLsrc/main/java/org/jabref/logic/formatter/casechanger/LowerCaseFormatter.java

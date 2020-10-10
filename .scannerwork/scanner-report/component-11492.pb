@@ -1,0 +1,1 @@
+‰Y 2javaX'hrQsrc/main/java/org/jabref/logic/formatter/bibtexfields/HtmlToUnicodeFormatter.java

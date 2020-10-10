@@ -1,0 +1,1 @@
+ÎX 2javaXŒhr;src/main/java/org/jabref/logic/layout/format/HTMLChars.java

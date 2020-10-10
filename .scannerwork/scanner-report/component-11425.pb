@@ -1,0 +1,1 @@
+¡Y 2javaXhrIsrc/main/java/org/jabref/logic/shared/exception/OfflineLockException.java

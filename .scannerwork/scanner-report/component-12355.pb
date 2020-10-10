@@ -1,0 +1,1 @@
+Ã` 2javaX¹hr6src/main/java/org/jabref/model/pdf/FileAnnotation.java

@@ -1,0 +1,1 @@
+“] 2javaXHhrIsrc/main/java/org/jabref/gui/documentviewer/PdfDocumentPageViewModel.java

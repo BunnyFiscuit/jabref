@@ -1,0 +1,1 @@
+ÿ[ 2javaXhr>src/main/java/org/jabref/gui/fieldeditors/EditorValidator.java

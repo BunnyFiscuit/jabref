@@ -1,0 +1,1 @@
+Á 2javaX2hrIsrc/test/java/org/jabref/logic/bibtex/comparator/BibDatabaseDiffTest.java

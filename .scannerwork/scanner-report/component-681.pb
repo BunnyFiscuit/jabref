@@ -1,0 +1,1 @@
+© 2javaX–hrHsrc/test/java/org/jabref/logic/importer/fetcher/SpringerFetcherTest.java

@@ -1,0 +1,1 @@
+ÛY 2javaX*hrYsrc/main/java/org/jabref/logic/formatter/bibtexfields/RemoveRedundantSpacesFormatter.java

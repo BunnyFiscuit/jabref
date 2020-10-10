@@ -1,0 +1,1 @@
+Ç_ 2javaX2hrAsrc/main/java/org/jabref/gui/entryeditor/DeprecatedFieldsTab.java

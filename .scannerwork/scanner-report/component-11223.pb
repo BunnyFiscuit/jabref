@@ -1,0 +1,1 @@
+×W 2javaX˜hrEsrc/main/java/org/jabref/logic/importer/fileformat/CopacImporter.java

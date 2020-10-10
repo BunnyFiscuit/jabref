@@ -1,0 +1,1 @@
+Å\ 2javaX$hrEsrc/main/java/org/jabref/gui/fieldeditors/JournalEditorViewModel.java

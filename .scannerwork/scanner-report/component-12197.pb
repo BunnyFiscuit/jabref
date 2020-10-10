@@ -1,0 +1,1 @@
+¥_ 2javaX[hrFsrc/main/java/org/jabref/gui/metadata/BibtexStringEditorItemModel.java

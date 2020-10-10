@@ -1,0 +1,1 @@
+ÊX 2javaXhrHsrc/main/java/org/jabref/logic/layout/format/RemoveBracketsAddComma.java

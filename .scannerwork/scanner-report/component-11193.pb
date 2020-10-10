@@ -1,0 +1,1 @@
+¹W 2javaXQhrKsrc/main/java/org/jabref/logic/importer/util/INSPIREBibtexFilterReader.java

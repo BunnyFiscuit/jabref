@@ -1,0 +1,1 @@
+Â 2xmlXhrNsrc/test/resources/org/jabref/logic/importer/fileformat/MsBibImporterTest4.xml

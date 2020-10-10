@@ -1,0 +1,1 @@
+±[ 2javaXÃhrEsrc/main/java/org/jabref/gui/preferences/EntryEditorTabViewModel.java

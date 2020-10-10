@@ -1,0 +1,1 @@
+ï\ 2javaXhr5src/main/java/org/jabref/gui/maintable/MainTable.java

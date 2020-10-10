@@ -1,0 +1,1 @@
+ê 2xmlX»hr*src/main/resources/xjc/medline/medline.xsd

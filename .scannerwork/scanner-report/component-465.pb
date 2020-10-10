@@ -1,0 +1,1 @@
+Ñ 2xmlXhrLsrc/test/resources/org/jabref/logic/exporter/BibTeXMLExporterTestBooklet.xml

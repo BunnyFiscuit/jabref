@@ -1,0 +1,1 @@
+Ÿ] 2javaXdhrNsrc/main/java/org/jabref/gui/protectedterms/ManageProtectedTermsViewModel.java

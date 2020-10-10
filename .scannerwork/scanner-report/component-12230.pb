@@ -1,0 +1,1 @@
+Æ_ 2javaX%hrBsrc/main/java/org/jabref/gui/entryeditor/UserDefinedFieldsTab.java

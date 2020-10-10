@@ -1,0 +1,1 @@
+ÆY 2javaXfhr>src/main/java/org/jabref/logic/formatter/casechanger/Word.java

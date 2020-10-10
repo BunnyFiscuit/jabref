@@ -1,0 +1,1 @@
+ÎW 2javaX¤hrCsrc/main/java/org/jabref/logic/importer/fileformat/IsiImporter.java

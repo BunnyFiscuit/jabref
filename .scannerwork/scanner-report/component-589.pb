@@ -1,0 +1,1 @@
+Í 2javaXGhrHsrc/test/java/org/jabref/migrations/ConvertLegacyExplicitGroupsTest.java

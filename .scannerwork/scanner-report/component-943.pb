@@ -1,0 +1,1 @@
+¯ 2javaX^hr;src/test/java/org/jabref/gui/entryeditor/SourceTabTest.java

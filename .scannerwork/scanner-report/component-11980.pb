@@ -1,0 +1,1 @@
+Ì] 2javaX&hrQsrc/main/java/org/jabref/gui/autocompleter/ContentSelectorSuggestionProvider.java

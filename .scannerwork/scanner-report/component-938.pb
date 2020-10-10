@@ -1,0 +1,1 @@
+ª 2javaX²hrCsrc/test/java/org/jabref/gui/mergeentries/DiffHighlightingTest.java

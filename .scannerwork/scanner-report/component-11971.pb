@@ -1,0 +1,1 @@
+Ã] 2javaX`hr6src/main/java/org/jabref/gui/groups/GroupSidePane.java

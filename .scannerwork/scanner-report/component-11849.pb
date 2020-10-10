@@ -1,0 +1,1 @@
+É\ 2cssXhr6src/main/java/org/jabref/gui/util/component/TagBar.css

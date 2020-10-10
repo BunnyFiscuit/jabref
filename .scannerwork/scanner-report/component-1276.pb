@@ -1,0 +1,1 @@
+ü	 2xmlX	hr/src/main/resources/resource/openoffice/meta.xml

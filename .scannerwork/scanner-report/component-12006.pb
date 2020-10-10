@@ -1,0 +1,1 @@
+æ] 2javaXPhr<src/main/java/org/jabref/gui/undo/UndoableInsertEntries.java

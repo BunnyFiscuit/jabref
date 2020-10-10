@@ -1,0 +1,1 @@
+Æ[ 2javaX«hrLsrc/main/java/org/jabref/gui/preferences/CitationKeyPatternTabViewModel.java

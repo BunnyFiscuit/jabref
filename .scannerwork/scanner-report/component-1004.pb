@@ -1,0 +1,1 @@
+ì 2xmlXÏhr(src/main/resources/xjc/mods/mods-3-7.xsd

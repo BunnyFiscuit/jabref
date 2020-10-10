@@ -1,0 +1,1 @@
+ö^ 2javaXHhrCsrc/main/java/org/jabref/gui/filelist/LinkedFileEditDialogView.java

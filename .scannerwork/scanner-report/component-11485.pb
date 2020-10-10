@@ -1,0 +1,1 @@
+ÝY 2javaXUhrRsrc/main/java/org/jabref/logic/formatter/bibtexfields/UnicodeToLatexFormatter.java

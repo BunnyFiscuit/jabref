@@ -1,0 +1,1 @@
+ª 2javaX=hrUsrc/test/java/org/jabref/logic/formatter/bibtexfields/HtmlToUnicodeFormatterTest.java

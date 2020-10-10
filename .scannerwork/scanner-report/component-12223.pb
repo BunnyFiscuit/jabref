@@ -1,0 +1,1 @@
+¿_ 2javaXhrCsrc/main/java/org/jabref/gui/entryeditor/OpenEntryEditorAction.java

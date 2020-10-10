@@ -1,0 +1,1 @@
+ã 2javaXhhr@src/test/java/org/jabref/logic/integrity/EditionCheckerTest.java

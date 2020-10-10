@@ -1,0 +1,1 @@
+œ` 2javaX0hr8src/main/java/org/jabref/model/entry/EntryConverter.java

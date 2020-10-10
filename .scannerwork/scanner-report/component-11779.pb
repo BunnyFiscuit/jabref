@@ -1,0 +1,1 @@
+ƒ\ 2javaXxhr;src/main/java/org/jabref/gui/fieldeditors/FieldEditors.java

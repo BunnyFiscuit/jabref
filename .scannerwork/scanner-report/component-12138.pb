@@ -1,0 +1,1 @@
+ê^ 2javaXØhrPsrc/main/java/org/jabref/gui/contentselector/ContentSelectorDialogViewModel.java

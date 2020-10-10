@@ -1,0 +1,1 @@
+–] 2javaX‚hrCsrc/main/java/org/jabref/gui/documentviewer/DocumentViewerView.java

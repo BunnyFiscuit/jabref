@@ -1,0 +1,1 @@
+øX 2javaXihr:src/main/java/org/jabref/logic/layout/format/XMLChars.java

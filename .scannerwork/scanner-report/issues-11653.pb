@@ -1,0 +1,2 @@
+k
+javaS1149PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque". 2 

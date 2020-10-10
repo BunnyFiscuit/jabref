@@ -1,0 +1,1 @@
+¤\ 2javaXwhrBsrc/main/java/org/jabref/gui/specialfields/SpecialFieldAction.java

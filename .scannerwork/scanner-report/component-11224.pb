@@ -1,0 +1,1 @@
+ØW 2javaXœhrKsrc/main/java/org/jabref/logic/importer/fileformat/BiblioscapeImporter.java

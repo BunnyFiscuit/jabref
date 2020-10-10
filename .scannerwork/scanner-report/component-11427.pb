@@ -1,0 +1,1 @@
+£Y 2javaXhr]src/main/java/org/jabref/logic/shared/exception/InvalidDBMSConnectionPropertiesException.java

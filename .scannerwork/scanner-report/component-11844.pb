@@ -1,0 +1,1 @@
+Ä\ 2javaX;hr3src/main/java/org/jabref/gui/util/UiThreadList.java

@@ -1,0 +1,1 @@
+¨W 2javaXhr2src/main/java/org/jabref/logic/l10n/Encodings.java

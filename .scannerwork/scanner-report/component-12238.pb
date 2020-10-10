@@ -1,0 +1,1 @@
+Î_ 2javaXPhr<src/main/java/org/jabref/gui/entryeditor/OtherFieldsTab.java

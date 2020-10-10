@@ -1,0 +1,1 @@
+° 2xmlXÌhr0src/main/resources/csl-locales/locales-de-DE.xml

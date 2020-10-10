@@ -1,0 +1,1 @@
+ß] 2javaX9hr@src/main/java/org/jabref/gui/errorconsole/LogEventViewModel.java

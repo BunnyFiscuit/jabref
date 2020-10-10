@@ -1,0 +1,1 @@
+‘ 2javaX8hrLsrc/test/java/org/jabref/logic/formatter/minifier/TruncateFormatterTest.java

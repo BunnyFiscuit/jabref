@@ -1,0 +1,1 @@
+É 2javaX©hrGsrc/test/java/org/jabref/logic/texparser/TexBibEntriesResolverTest.java

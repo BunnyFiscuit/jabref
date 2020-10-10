@@ -1,0 +1,1 @@
+à^ 2javaXÔhrEsrc/main/java/org/jabref/gui/texparser/ParseLatexDialogViewModel.java

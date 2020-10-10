@@ -1,0 +1,1 @@
+ _ 2javaX~hrGsrc/main/java/org/jabref/gui/metadata/BibtexStringEditorDialogView.java

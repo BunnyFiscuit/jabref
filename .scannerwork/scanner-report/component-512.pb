@@ -1,0 +1,1 @@
+€ 2xmlXhrLsrc/test/resources/org/jabref/logic/exporter/BibTeXMLExporterTestArticle.xml

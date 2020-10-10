@@ -1,0 +1,1 @@
+å` 2javaX3hr<src/main/java/org/jabref/model/metadata/ContentSelector.java

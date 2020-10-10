@@ -1,0 +1,1 @@
+Ô_ 2javaXƒhr9src/main/java/org/jabref/gui/entryeditor/EntryEditor.java

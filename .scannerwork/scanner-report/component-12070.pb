@@ -1,0 +1,1 @@
+¦^ 2javaXbhr@src/main/java/org/jabref/gui/journals/AbbreviationViewModel.java

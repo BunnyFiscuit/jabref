@@ -1,0 +1,1 @@
+í\ 2javaX€hrBsrc/main/java/org/jabref/gui/maintable/BibEntryTableViewModel.java

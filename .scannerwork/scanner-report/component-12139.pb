@@ -1,0 +1,1 @@
+ë^ 2javaXhrMsrc/main/java/org/jabref/gui/contentselector/ManageContentSelectorAction.java

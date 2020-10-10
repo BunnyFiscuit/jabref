@@ -1,0 +1,1 @@
+ØY 2javaX`hrTsrc/main/java/org/jabref/logic/formatter/bibtexfields/EscapeAmpersandsFormatter.java

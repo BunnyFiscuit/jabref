@@ -1,0 +1,1 @@
+Ä_ 2javaX&hrQsrc/main/java/org/jabref/gui/entryeditor/fileannotationtab/FileAnnotationTab.java

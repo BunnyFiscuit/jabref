@@ -1,0 +1,1 @@
+ÐX 2javaXhrCsrc/main/java/org/jabref/logic/layout/format/FormatPagesForXML.java

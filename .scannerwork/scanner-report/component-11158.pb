@@ -1,0 +1,1 @@
+–W 2javaX4hr:src/main/java/org/jabref/preferences/NewLineSeparator.java

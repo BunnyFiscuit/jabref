@@ -1,0 +1,1 @@
+²^ 2javaXphr?src/main/java/org/jabref/gui/mergeentries/DiffHighlighting.java

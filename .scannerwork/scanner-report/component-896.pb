@@ -1,0 +1,1 @@
+€ 2javaXhrKsrc/test/java/org/jabref/logic/citationkeypattern/BracketedPatternTest.java

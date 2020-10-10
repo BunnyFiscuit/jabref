@@ -1,0 +1,1 @@
+¶^ 2javaXÁhr;src/main/java/org/jabref/gui/mergeentries/MergeEntries.java

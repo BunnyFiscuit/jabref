@@ -1,0 +1,1 @@
+‘ 2javaXQhr@src/test/java/org/jabref/architecture/TestArchitectureTests.java

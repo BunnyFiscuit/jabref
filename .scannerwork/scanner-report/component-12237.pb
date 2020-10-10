@@ -1,0 +1,1 @@
+Í_ 2javaX9hr?src/main/java/org/jabref/gui/entryeditor/RequiredFieldsTab.java

@@ -1,0 +1,1 @@
+ÁY 2javaXQhrNsrc/main/java/org/jabref/logic/formatter/minifier/MinifyNameListFormatter.java

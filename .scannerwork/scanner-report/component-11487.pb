@@ -1,0 +1,1 @@
+ßY 2javaXŠhrOsrc/main/java/org/jabref/logic/formatter/bibtexfields/HtmlToLatexFormatter.java

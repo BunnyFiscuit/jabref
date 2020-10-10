@@ -1,0 +1,1 @@
+Ó 2javaX6hr?src/test/java/org/jabref/logic/l10n/LocalizationParserTest.java

@@ -1,0 +1,1 @@
+×^ 2javaXXhr6src/main/java/org/jabref/gui/collab/ChangeScanner.java

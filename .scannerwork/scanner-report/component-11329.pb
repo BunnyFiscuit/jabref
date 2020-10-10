@@ -1,0 +1,1 @@
+ÁX 2javaXKhrNsrc/main/java/org/jabref/logic/layout/format/RemoveLatexCommandsFormatter.java

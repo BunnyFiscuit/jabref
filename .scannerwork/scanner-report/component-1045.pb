@@ -1,0 +1,1 @@
+• 2rubyX-hr3src/main/resources/csl-locales/spec/locales_spec.rb

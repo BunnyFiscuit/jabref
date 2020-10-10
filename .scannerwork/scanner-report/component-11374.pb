@@ -1,0 +1,1 @@
+ÓX 2javaX+hrCsrc/main/java/org/jabref/logic/layout/format/MarkdownFormatter.java

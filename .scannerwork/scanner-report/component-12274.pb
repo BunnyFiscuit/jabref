@@ -1,0 +1,1 @@
+ò_ 2javaXAhrMsrc/main/java/org/jabref/gui/citationkeypattern/CitationKeyPatternDialog.java

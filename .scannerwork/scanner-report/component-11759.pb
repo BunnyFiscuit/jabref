@@ -1,0 +1,1 @@
+ï[ 2javaXhrCsrc/main/java/org/jabref/gui/fieldeditors/YesNoEditorViewModel.java

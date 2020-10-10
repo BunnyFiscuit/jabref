@@ -1,0 +1,1 @@
+ò\ 2javaXohrJsrc/main/java/org/jabref/gui/maintable/columns/LinkedIdentifierColumn.java

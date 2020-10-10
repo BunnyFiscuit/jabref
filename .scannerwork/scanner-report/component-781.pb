@@ -1,0 +1,1 @@
+ç 2javaXihr=src/test/java/org/jabref/logic/journals/AbbreviationTest.java

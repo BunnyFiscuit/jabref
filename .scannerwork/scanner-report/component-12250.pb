@@ -1,0 +1,1 @@
+Ú_ 2javaXhrBsrc/main/java/org/jabref/gui/openoffice/StyleSelectDialogView.java

@@ -1,0 +1,1 @@
+·_ 2javaXhr9src/main/java/org/jabref/gui/help/ErrorConsoleAction.java

@@ -1,0 +1,1 @@
+ó\ 2javaX&hrCsrc/main/java/org/jabref/gui/maintable/columns/MainTableColumn.java

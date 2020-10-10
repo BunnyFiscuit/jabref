@@ -1,0 +1,1 @@
+¡^ 2javaXZhr@src/main/java/org/jabref/gui/push/PushToApplicationsManager.java

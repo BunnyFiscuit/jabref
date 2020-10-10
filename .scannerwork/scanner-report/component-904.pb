@@ -1,0 +1,1 @@
+ˆ 2javaXHhr7src/test/java/org/jabref/logic/bst/BibtexWidthTest.java

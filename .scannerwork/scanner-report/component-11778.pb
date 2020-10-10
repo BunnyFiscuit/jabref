@@ -1,0 +1,1 @@
+‚\ 2javaXThrFsrc/main/java/org/jabref/gui/fieldeditors/AbstractEditorViewModel.java

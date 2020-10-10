@@ -1,0 +1,1 @@
+¢\ 2javaXKhrJsrc/main/java/org/jabref/gui/specialfields/SpecialFieldValueViewModel.java

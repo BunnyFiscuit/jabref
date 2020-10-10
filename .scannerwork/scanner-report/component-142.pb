@@ -1,0 +1,1 @@
+Ž 2xmlX>hr#scripts/junit-xml-format-errors.xsl

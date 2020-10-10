@@ -1,0 +1,1 @@
+Ã_ 2javaXrhrWsrc/main/java/org/jabref/gui/entryeditor/fileannotationtab/FileAnnotationViewModel.java

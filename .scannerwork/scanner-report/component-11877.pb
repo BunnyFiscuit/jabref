@@ -1,0 +1,1 @@
+å\ 2javaX3hrDsrc/main/java/org/jabref/gui/maintable/SearchShortScienceAction.java

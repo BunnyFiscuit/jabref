@@ -1,0 +1,1 @@
+\ 2javaX÷hrAsrc/main/java/org/jabref/gui/importer/ImportEntriesViewModel.java

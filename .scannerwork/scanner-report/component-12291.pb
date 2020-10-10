@@ -1,0 +1,1 @@
+ƒ` 2javaXhrAsrc/main/java/org/jabref/model/strings/LatexToUnicodeAdapter.java

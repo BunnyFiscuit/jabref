@@ -1,0 +1,1 @@
+‘] 2javaXhrFsrc/main/java/org/jabref/gui/documentviewer/DocumentPageViewModel.java

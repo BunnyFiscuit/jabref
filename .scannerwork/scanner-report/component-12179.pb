@@ -1,0 +1,1 @@
+“_ 2javaXRhrAsrc/main/java/org/jabref/gui/icon/InternalMaterialDesignIcon.java

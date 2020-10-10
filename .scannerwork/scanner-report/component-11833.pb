@@ -1,0 +1,1 @@
+¹\ 2javaXÌhr?src/main/java/org/jabref/gui/util/ViewModelTableRowFactory.java

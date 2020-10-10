@@ -1,0 +1,1 @@
+¶` 2javaX…hr4src/main/java/org/jabref/model/entry/AuthorList.java

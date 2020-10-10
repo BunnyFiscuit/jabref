@@ -1,0 +1,1 @@
+¨Z 2javaX&hrNsrc/main/java/org/jabref/logic/integrity/JournalInAbbreviationListChecker.java

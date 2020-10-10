@@ -1,0 +1,1 @@
+Ê] 2javaXhrIsrc/main/java/org/jabref/gui/autocompleter/AppendPersonNamesStrategy.java

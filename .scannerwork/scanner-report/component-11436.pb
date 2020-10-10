@@ -1,0 +1,1 @@
+¬Y 2javaXÙhr5src/main/java/org/jabref/logic/xmp/XmpUtilWriter.java

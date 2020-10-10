@@ -1,0 +1,1 @@
+ñ\ 2javaX/hrGsrc/main/java/org/jabref/gui/maintable/PersistenceVisualStateTable.java

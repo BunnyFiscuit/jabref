@@ -1,0 +1,1 @@
+ü] 2javaX%hrIsrc/main/java/org/jabref/gui/search/rules/describer/SearchDescribers.java

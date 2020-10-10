@@ -1,0 +1,1 @@
+¼\ 2javaXhrOsrc/main/java/org/jabref/gui/util/uithreadaware/UiThreadListChangeListener.java

@@ -1,0 +1,1 @@
+®^ 2javaX6hr@src/main/java/org/jabref/gui/journals/UndoableUnabbreviator.java

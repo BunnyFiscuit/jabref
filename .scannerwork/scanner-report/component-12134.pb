@@ -1,0 +1,1 @@
+æ^ 2javaX0hr>src/main/java/org/jabref/gui/texparser/ReferenceViewModel.java

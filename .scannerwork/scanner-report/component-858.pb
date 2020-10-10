@@ -1,0 +1,1 @@
+Ú 2javaX7hrFsrc/test/java/org/jabref/logic/integrity/HTMLCharacterCheckerTest.java

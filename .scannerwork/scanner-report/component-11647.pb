@@ -1,0 +1,1 @@
+ÿZ 2javaXBhr:src/main/java/org/jabref/logic/bst/ChangeCaseFunction.java

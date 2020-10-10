@@ -1,0 +1,1 @@
+ÉY 2javaXÎhr7src/main/java/org/jabref/logic/layout/LayoutHelper.java

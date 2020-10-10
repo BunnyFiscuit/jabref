@@ -1,0 +1,1 @@
+µ\ 2javaXæhr?src/main/java/org/jabref/gui/util/ViewModelListCellFactory.java

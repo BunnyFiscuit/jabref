@@ -1,0 +1,1 @@
+™ 2javaX hrVsrc/test/java/org/jabref/logic/formatter/bibtexfields/UnicodeToLatexFormatterTest.java

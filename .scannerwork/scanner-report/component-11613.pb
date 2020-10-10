@@ -1,0 +1,1 @@
+ÝZ 2javaXhr8src/main/java/org/jabref/logic/logging/JabRefLogger.java

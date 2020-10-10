@@ -1,0 +1,1 @@
+±` 2javaXnhr9src/main/java/org/jabref/model/entry/identifier/ISBN.java

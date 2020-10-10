@@ -1,0 +1,1 @@
+©X 2javaXEhrKsrc/main/java/org/jabref/logic/util/MetadataSerializationConfiguration.java

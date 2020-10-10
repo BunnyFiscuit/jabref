@@ -1,0 +1,1 @@
+â_ 2javaXNhrIsrc/main/java/org/jabref/gui/openoffice/ManualConnectDialogViewModel.java

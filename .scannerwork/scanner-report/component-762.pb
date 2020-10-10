@@ -1,0 +1,1 @@
+ú 2javaXÛhrKsrc/test/java/org/jabref/logic/protectedterms/ProtectedTermsLoaderTest.java

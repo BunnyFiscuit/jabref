@@ -1,0 +1,1 @@
+• 2javaXhrLsrc/test/java/org/jabref/gui/fieldeditors/IdentifierEditorViewModelTest.java

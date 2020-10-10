@@ -1,0 +1,1 @@
+ÛX 2javaX0hrHsrc/main/java/org/jabref/logic/layout/format/DocBookAuthorFormatter.java

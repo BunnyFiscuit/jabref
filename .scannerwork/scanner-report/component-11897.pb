@@ -1,0 +1,1 @@
+ù\ 2cssX<hr4src/main/java/org/jabref/gui/maintable/MainTable.css

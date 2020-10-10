@@ -1,0 +1,1 @@
+á[ 2javaXhrDsrc/main/java/org/jabref/gui/fieldeditors/SimpleEditorViewModel.java

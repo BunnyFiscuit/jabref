@@ -1,0 +1,1 @@
+§W 2javaXChr1src/main/java/org/jabref/logic/l10n/Language.java

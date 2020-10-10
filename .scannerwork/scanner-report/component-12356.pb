@@ -1,0 +1,1 @@
+Ä` 2javaXShr6src/main/java/org/jabref/model/groups/SearchGroup.java

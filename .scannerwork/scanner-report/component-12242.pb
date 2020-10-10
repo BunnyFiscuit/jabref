@@ -1,0 +1,1 @@
+Ò_ 2javaXóhr@src/main/java/org/jabref/gui/entryeditor/RelatedArticlesTab.java

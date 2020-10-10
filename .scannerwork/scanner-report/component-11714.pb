@@ -1,0 +1,1 @@
+Â[ 2javaXÝhrBsrc/main/java/org/jabref/gui/preferences/ExternalTabViewModel.java

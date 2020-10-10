@@ -1,0 +1,1 @@
+›_ 2javaXìhrOsrc/main/java/org/jabref/gui/customentrytypes/CustomizeEntryTypeDialogView.java

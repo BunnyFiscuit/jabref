@@ -1,0 +1,1 @@
+á 2xmlX	hrRsrc/test/resources/org/jabref/logic/exporter/BibTeXMLExporterTestInvalidInbook.xml

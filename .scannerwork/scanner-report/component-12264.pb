@@ -1,0 +1,1 @@
+è_ 2javaX.hrCsrc/main/java/org/jabref/gui/openoffice/AdvancedCiteDialogView.java

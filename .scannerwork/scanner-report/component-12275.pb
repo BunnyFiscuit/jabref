@@ -1,0 +1,1 @@
+ó_ 2javaX*hrTsrc/main/java/org/jabref/gui/citationkeypattern/GenerateCitationKeySingleAction.java

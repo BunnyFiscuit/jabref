@@ -1,0 +1,1 @@
+ŸY 2javaXhrGsrc/main/java/org/jabref/logic/shared/DatabaseConnectionProperties.java

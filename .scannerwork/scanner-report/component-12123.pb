@@ -1,0 +1,1 @@
+Û^ 2javaXDhr=src/main/java/org/jabref/gui/collab/EntryChangeViewModel.java

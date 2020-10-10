@@ -1,0 +1,1 @@
+ÂX 2javaXhrLsrc/main/java/org/jabref/logic/layout/format/AuthorLastFirstAbbreviator.java

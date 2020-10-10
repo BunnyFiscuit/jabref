@@ -1,0 +1,1 @@
+ø 2javaX&hrDsrc/test/java/org/jabref/logic/layout/format/RemoveBracketsTest.java

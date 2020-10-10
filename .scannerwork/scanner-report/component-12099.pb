@@ -1,0 +1,1 @@
+Ã^ 2javaXhrCsrc/main/java/org/jabref/gui/externalfiletype/ExternalFileType.java

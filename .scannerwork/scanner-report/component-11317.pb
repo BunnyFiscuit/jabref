@@ -1,0 +1,1 @@
+µX 2javaX«hr6src/main/java/org/jabref/logic/layout/LayoutEntry.java

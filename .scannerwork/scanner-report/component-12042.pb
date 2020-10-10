@@ -1,0 +1,1 @@
+Š^ 2javaXöhr:src/main/java/org/jabref/gui/edit/MassSetFieldsDialog.java

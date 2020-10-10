@@ -1,0 +1,1 @@
+¾] 2cssXwhr1src/main/java/org/jabref/gui/groups/GroupTree.css

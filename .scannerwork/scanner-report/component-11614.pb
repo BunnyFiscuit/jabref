@@ -1,0 +1,1 @@
+ÞZ 2javaXEhr1src/main/java/org/jabref/logic/help/HelpFile.java

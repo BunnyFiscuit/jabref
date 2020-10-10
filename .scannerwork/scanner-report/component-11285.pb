@@ -1,0 +1,1 @@
+•X 2javaXGhr2src/main/java/org/jabref/logic/util/BuildInfo.java

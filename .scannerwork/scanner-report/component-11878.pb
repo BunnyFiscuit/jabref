@@ -1,0 +1,1 @@
+æ\ 2javaXshr:src/main/java/org/jabref/gui/maintable/RightClickMenu.java

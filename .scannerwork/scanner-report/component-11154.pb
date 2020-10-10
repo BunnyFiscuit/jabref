@@ -1,0 +1,1 @@
+’W 2javaX)hr;src/main/java/org/jabref/preferences/SearchPreferences.java

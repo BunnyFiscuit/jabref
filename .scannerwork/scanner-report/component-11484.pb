@@ -1,0 +1,1 @@
+ÜY 2javaX+hrRsrc/main/java/org/jabref/logic/formatter/bibtexfields/RemoveNewlinesFormatter.java

@@ -1,0 +1,1 @@
+ÉY 2javaX)hrMsrc/main/java/org/jabref/logic/formatter/casechanger/CapitalizeFormatter.java

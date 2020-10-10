@@ -1,0 +1,1 @@
+–[ 2javaXØhr2src/main/java/org/jabref/gui/ClipBoardManager.java

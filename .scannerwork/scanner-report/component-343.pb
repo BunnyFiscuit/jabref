@@ -1,0 +1,1 @@
+× 2xmlXhrZsrc/test/resources/org/jabref/logic/importer/fileformat/BibTeXMLImporterTestConference.xml

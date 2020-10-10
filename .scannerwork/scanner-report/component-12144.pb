@@ -1,0 +1,1 @@
+ð^ 2javaXQhr6src/main/java/org/jabref/gui/actions/ActionHelper.java

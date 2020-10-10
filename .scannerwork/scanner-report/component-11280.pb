@@ -1,0 +1,1 @@
+X 2javaXvhr=src/main/java/org/jabref/logic/importer/FulltextFetchers.java

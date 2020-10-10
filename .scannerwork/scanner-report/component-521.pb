@@ -1,0 +1,1 @@
+‰ 2xmlX!hrWsrc/test/resources/org/jabref/logic/exporter/ModsExportFormatTestOnlyRequiredFields.xml

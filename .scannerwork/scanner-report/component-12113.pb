@@ -1,0 +1,1 @@
+Ñ^ 2javaX2hrAsrc/main/java/org/jabref/gui/collab/StringAddChangeViewModel.java

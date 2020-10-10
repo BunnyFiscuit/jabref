@@ -1,0 +1,1 @@
+Š 2xmlXÁhr0src/main/resources/csl-locales/locales-pt-PT.xml

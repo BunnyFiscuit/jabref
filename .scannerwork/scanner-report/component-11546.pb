@@ -1,0 +1,1 @@
+šZ 2javaX*hrBsrc/main/java/org/jabref/logic/integrity/NoBibtexFieldChecker.java

@@ -1,0 +1,1 @@
+º 2xmlXhrKsrc/test/resources/org/jabref/logic/exporter/BibTeXMLExporterTestManual.xml

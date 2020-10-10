@@ -1,0 +1,1 @@
+– 2javaX hrPsrc/test/java/org/jabref/logic/formatter/casechanger/LowerCaseFormatterTest.java

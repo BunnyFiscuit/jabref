@@ -1,0 +1,1 @@
+Ó\ 2javaX[hrDsrc/main/java/org/jabref/gui/util/ViewModelTreeTableCellFactory.java

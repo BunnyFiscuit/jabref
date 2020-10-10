@@ -1,0 +1,1 @@
+Â^ 2javaXVhrPsrc/main/java/org/jabref/gui/externalfiletype/EditExternalFileTypeViewModel.java

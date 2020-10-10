@@ -1,0 +1,1 @@
+× 2javaX0hrBsrc/test/java/org/jabref/logic/integrity/BibStringCheckerTest.java

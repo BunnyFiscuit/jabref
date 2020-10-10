@@ -1,0 +1,1 @@
+Ë 2xmlXhrGsrc/test/resources/org/jabref/logic/exporter/MsBibExportFormatTest4.xml

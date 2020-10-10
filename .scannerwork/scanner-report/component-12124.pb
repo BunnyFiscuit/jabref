@@ -1,0 +1,1 @@
+Ü^ 2javaXOhrEsrc/main/java/org/jabref/gui/texparser/ParseLatexResultViewModel.java

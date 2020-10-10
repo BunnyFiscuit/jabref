@@ -1,0 +1,1 @@
+´[ 2javaXghrGsrc/main/java/org/jabref/gui/preferences/NameFormatterTabViewModel.java

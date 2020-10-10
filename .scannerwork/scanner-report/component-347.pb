@@ -1,0 +1,1 @@
+Û 2xmlXhrXsrc/test/resources/org/jabref/logic/importer/fileformat/MsBibImporterMsBibFieldsTest.xml

@@ -1,0 +1,1 @@
+É_ 2javaX1hr@src/main/java/org/jabref/gui/entryeditor/OptionalFields2Tab.java

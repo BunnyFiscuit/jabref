@@ -1,0 +1,1 @@
+è 2xmlXhrjsrc/test/resources/org/jabref/logic/importer/fileformat/BibTeXMLImporterTestIncollectionWithoutChapter.xml

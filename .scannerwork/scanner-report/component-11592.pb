@@ -1,0 +1,1 @@
+ÈZ 2javaXÎhr;src/main/java/org/jabref/logic/exporter/OOCalcDatabase.java

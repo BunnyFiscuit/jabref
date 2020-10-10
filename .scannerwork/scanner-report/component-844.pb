@@ -1,0 +1,1 @@
+Ì 2javaX#hrDsrc/test/java/org/jabref/logic/integrity/DoiValidityCheckerTest.java

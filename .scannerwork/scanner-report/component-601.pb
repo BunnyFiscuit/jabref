@@ -1,0 +1,1 @@
+Ù 2javaXBhr:src/test/java/org/jabref/logic/l10n/LocalizationEntry.java

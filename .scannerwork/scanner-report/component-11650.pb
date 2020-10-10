@@ -1,0 +1,1 @@
+‚[ 2javaX²hr9src/main/java/org/jabref/logic/bst/BibtexCaseChanger.java

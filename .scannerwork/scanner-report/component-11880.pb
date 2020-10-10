@@ -1,0 +1,1 @@
+è\ 2javaXihrHsrc/main/java/org/jabref/gui/maintable/SmartConstrainedResizePolicy.java

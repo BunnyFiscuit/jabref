@@ -1,0 +1,1 @@
+ÌW 2javaX5hrJsrc/main/java/org/jabref/logic/importer/fetcher/IsbnViaEbookDeFetcher.java

@@ -1,0 +1,1 @@
+— 2xmlXhrtsrc/test/resources/org/jabref/logic/importer/fetcher/collection_of_computer_science_bibliographies_single_result.xml

@@ -1,0 +1,1 @@
+ÊY 2javaX)hrOsrc/main/java/org/jabref/logic/formatter/casechanger/SentenceCaseFormatter.java

@@ -1,0 +1,1 @@
+Ã\ 2javaX.hr=src/main/java/org/jabref/gui/util/OptionalObjectProperty.java

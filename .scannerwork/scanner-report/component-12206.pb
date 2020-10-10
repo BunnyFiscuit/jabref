@@ -1,0 +1,1 @@
+®_ 2javaXZhr@src/main/java/org/jabref/gui/keyboard/KeyBindingsDialogView.java

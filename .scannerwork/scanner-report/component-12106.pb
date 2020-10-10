@@ -1,0 +1,1 @@
+Ê^ 2javaXŒhrKsrc/main/java/org/jabref/gui/duplicationFinder/DuplicateResolverDialog.java

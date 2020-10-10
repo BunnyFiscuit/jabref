@@ -1,0 +1,1 @@
+€[ 2javaXôhr3src/main/java/org/jabref/logic/bst/BibtexWidth.java

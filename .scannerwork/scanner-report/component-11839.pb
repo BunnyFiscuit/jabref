@@ -1,0 +1,1 @@
+¿\ 2javaXJhrKsrc/main/java/org/jabref/gui/util/uithreadaware/UiThreadStringProperty.java

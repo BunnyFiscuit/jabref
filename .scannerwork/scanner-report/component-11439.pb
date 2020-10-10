@@ -1,0 +1,1 @@
+ØY 2javaXÅhr;src/main/java/org/jabref/logic/xmp/DublinCoreExtractor.java

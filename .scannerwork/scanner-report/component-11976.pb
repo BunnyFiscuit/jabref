@@ -1,0 +1,1 @@
+È] 2javaXÒhr;src/main/java/org/jabref/gui/groups/GroupTreeViewModel.java

@@ -1,0 +1,1 @@
+ÕW 2javaXhrIsrc/main/java/org/jabref/logic/importer/fileformat/mods/package-info.java

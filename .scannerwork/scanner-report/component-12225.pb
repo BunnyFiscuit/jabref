@@ -1,0 +1,1 @@
+¡_ 2javaXÅhrUsrc/main/java/org/jabref/gui/entryeditor/fileannotationtab/FileAnnotationTabView.java

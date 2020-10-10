@@ -1,0 +1,1 @@
+ËX 2javaXhrBsrc/main/java/org/jabref/logic/layout/format/AuthorFirstFirst.java

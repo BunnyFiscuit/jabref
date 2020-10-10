@@ -1,0 +1,1 @@
+Ä^ 2javaXWhrSsrc/main/java/org/jabref/gui/externalfiletype/CustomizeExternalFileTypesDialog.java

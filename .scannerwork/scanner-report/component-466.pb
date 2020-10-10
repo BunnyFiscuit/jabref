@@ -1,0 +1,1 @@
+Ò 2xmlX	hrKsrc/test/resources/org/jabref/logic/exporter/BibTeXMLExporterTestAuthor.xml

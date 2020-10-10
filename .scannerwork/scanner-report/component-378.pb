@@ -1,0 +1,1 @@
+ú 2xmlXhrWsrc/test/resources/org/jabref/logic/importer/fileformat/BibTeXMLImporterTestArticle.xml

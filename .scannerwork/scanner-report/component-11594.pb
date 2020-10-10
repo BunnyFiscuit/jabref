@@ -1,0 +1,1 @@
+ÊZ 2javaXþhr=src/main/java/org/jabref/logic/exporter/BibTeXMLExporter.java

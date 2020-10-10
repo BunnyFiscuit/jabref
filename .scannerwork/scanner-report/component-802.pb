@@ -1,0 +1,1 @@
+¢ 2javaX7hrYsrc/test/java/org/jabref/logic/formatter/bibtexfields/NormalizeEnDashesFormatterTest.java

@@ -1,0 +1,1 @@
+§ 2javaXÏhrdsrc/test/java/org/jabref/gui/journals/ManageJournalAbbreviationsViewModelMixedAbbreviationsTest.java

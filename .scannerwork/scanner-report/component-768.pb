@@ -1,0 +1,1 @@
+€ 2javaX4hr6src/test/java/org/jabref/logic/shared/TestManager.java

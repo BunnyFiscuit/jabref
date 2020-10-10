@@ -1,0 +1,1 @@
+¶X 2javaX;hrGsrc/main/java/org/jabref/logic/layout/AbstractParamLayoutFormatter.java

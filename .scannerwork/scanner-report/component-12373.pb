@@ -1,0 +1,1 @@
+Õ` 2javaX>hrGsrc/main/java/org/jabref/model/search/rules/ContainBasedSearchRule.java

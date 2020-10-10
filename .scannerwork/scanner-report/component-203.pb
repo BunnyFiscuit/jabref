@@ -1,0 +1,1 @@
+Ë 2xmlXhrVsrc/test/resources/org/jabref/logic/importer/fileformat/BibTeXMLImporterTestInBook.xml

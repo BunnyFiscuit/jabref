@@ -1,0 +1,1 @@
+¹Y 2javaXhrKsrc/main/java/org/jabref/logic/journals/JournalAbbreviationPreferences.java

@@ -1,0 +1,1 @@
+ƒ 2xmlXhr\src/test/resources/org/jabref/logic/importer/fileformat/BibTeXMLImporterTestMasterThesis.xml

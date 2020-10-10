@@ -1,0 +1,1 @@
+Ä 2xmlXPhr]src/test/resources/org/jabref/logic/importer/fileformat/MedlineImporterTestBookArticleSet.xml

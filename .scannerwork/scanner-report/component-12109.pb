@@ -1,0 +1,1 @@
+Í^ 2javaX,hrCsrc/main/java/org/jabref/gui/collab/EntryDeleteChangeViewModel.java

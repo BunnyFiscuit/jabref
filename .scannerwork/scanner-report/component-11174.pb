@@ -1,0 +1,1 @@
+¦W 2javaXhr8src/main/java/org/jabref/logic/l10n/LocalizationKey.java

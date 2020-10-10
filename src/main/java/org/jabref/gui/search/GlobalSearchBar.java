@@ -9,12 +9,14 @@ import java.util.regex.PatternSyntaxException;
 import javafx.application.Platform;
 import javafx.beans.binding.Bindings;
 import javafx.beans.binding.BooleanBinding;
+import javafx.collections.FXCollections;
 import javafx.css.PseudoClass;
 import javafx.event.Event;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.Cursor;
 import javafx.scene.Node;
+import javafx.scene.control.ComboBox;
 import javafx.scene.control.ContentDisplay;
 import javafx.scene.control.Label;
 import javafx.scene.control.ListView;
@@ -80,6 +82,7 @@ public class GlobalSearchBar extends HBox {
     private final CustomTextField searchField = SearchTextField.create();
     private final ToggleButton caseSensitiveButton;
     private final ToggleButton regularExpressionButton;
+    private final ComboBox comboTest;
     // private final Button searchModeButton;
     private final Label currentResults = new Label("");
     private final Tooltip tooltip = new Tooltip();
@@ -121,6 +124,9 @@ public class GlobalSearchBar extends HBox {
 
         ClipBoardManager.addX11Support(searchField);
 
+        int[] years = {2019, 2020};
+        comboTest = new ComboBox(FXCollections.observableArrayList(years));
+
         regularExpressionButton = IconTheme.JabRefIcons.REG_EX.asToggleButton();
         caseSensitiveButton = IconTheme.JabRefIcons.CASE_SENSITIVE.asToggleButton();
         // searchModeButton = new Button();
@@ -134,7 +140,7 @@ public class GlobalSearchBar extends HBox {
         caseSensitiveButton.visibleProperty().unbind();
         caseSensitiveButton.visibleProperty().bind(focusBinding);
 
-        StackPane modifierButtons = new StackPane(new HBox(regularExpressionButton, caseSensitiveButton));
+        StackPane modifierButtons = new StackPane(new HBox(regularExpressionButton, caseSensitiveButton, comboTest));
         modifierButtons.setAlignment(Pos.CENTER);
         searchField.setRight(new HBox(searchField.getRight(), modifierButtons));
         searchField.getStyleClass().add("search-field");

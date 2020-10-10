@@ -1,0 +1,1 @@
+å 2javaX"hr=src/test/java/org/jabref/logic/integrity/TypeCheckerTest.java

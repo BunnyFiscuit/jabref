@@ -1,0 +1,1 @@
+ð 2xmlXêhr,src/main/resources/xjc/bibtexml/bibtexml.xsd

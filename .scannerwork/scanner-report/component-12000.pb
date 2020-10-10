@@ -1,0 +1,1 @@
+à] 2javaX‰hr?src/main/java/org/jabref/gui/errorconsole/ErrorConsoleView.java

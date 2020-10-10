@@ -1,0 +1,1 @@
+ÅW 2javaXðhrJsrc/main/java/org/jabref/logic/importer/fileformat/PdfContentImporter.java

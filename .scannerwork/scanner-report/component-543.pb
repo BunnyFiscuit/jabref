@@ -1,0 +1,1 @@
+Ÿ 2xmlXhr"src/test/resources/log4j2-test.xml

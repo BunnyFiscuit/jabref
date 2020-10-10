@@ -1,0 +1,1 @@
+¤_ 2javaXehrLsrc/main/java/org/jabref/gui/metadata/BibtexStringEditorDialogViewModel.java

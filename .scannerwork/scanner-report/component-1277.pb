@@ -1,0 +1,1 @@
+ý	 2xmlXhr3src/main/resources/resource/openoffice/manifest.xml

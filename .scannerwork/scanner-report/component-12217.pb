@@ -1,0 +1,1 @@
+¹_ 2javaX4hr7src/main/java/org/jabref/gui/help/NewVersionDialog.java

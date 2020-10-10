@@ -1,0 +1,1 @@
+ÔW 2javaXGhr@src/main/java/org/jabref/logic/importer/fetcher/IsbnFetcher.java

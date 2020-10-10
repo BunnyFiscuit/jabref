@@ -1,0 +1,1 @@
+«] 2javaX—hr7src/main/java/org/jabref/gui/desktop/JabRefDesktop.java

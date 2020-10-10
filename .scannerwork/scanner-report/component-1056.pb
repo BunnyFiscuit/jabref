@@ -1,0 +1,1 @@
+  2xmlXêhr0src/main/resources/csl-locales/locales-lv-LV.xml

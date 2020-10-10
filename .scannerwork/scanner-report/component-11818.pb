@@ -1,0 +1,1 @@
+ª\ 2javaXAhrRsrc/main/java/org/jabref/gui/customizefields/CustomizeGeneralFieldsDialogView.java

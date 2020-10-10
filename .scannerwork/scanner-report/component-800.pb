@@ -1,0 +1,1 @@
+  2javaXBhrSsrc/test/java/org/jabref/logic/formatter/bibtexfields/HtmlToLatexFormatterTest.java

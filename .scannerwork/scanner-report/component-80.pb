@@ -1,0 +1,1 @@
+P 2xmlXhr*buildres/JabRef.VisualElementsManifest.xml

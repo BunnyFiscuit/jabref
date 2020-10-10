@@ -1,0 +1,1 @@
+ÍX 2javaXThrDsrc/main/java/org/jabref/logic/layout/format/Iso690NamesAuthors.java

@@ -1,0 +1,1 @@
+ 2xmlXŽhr config/checkstyle/checkstyle.xml

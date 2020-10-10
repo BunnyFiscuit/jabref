@@ -1,0 +1,1 @@
+ğZ 2javaXˆhrQsrc/main/java/org/jabref/logic/citationkeypattern/AbstractCitationKeyPattern.java

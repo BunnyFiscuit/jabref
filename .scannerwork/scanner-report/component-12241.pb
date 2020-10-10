@@ -1,0 +1,1 @@
+Ñ_ 2javaXähr=src/main/java/org/jabref/gui/entryeditor/FieldsEditorTab.java

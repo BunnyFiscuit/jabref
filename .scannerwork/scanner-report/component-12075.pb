@@ -1,0 +1,1 @@
+«^ 2cssXhrDsrc/main/java/org/jabref/gui/journals/ManageJournalAbbreviations.css

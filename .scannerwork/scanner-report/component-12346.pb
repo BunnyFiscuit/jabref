@@ -1,0 +1,1 @@
+º` 2javaX!hrAsrc/main/java/org/jabref/model/entry/event/EntryChangedEvent.java

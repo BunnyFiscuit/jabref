@@ -1,0 +1,1 @@
+± 2javaX)hrMsrc/test/java/org/jabref/logic/formatter/bibtexfields/ClearFormatterTest.java

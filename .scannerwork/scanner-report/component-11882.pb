@@ -1,0 +1,1 @@
+ê\ 2javaXóhrBsrc/main/java/org/jabref/gui/maintable/MainTableColumnFactory.java

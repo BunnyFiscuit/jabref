@@ -1,0 +1,1 @@
+Ý] 2javaX{hrDsrc/main/java/org/jabref/gui/errorconsole/ErrorConsoleViewModel.java

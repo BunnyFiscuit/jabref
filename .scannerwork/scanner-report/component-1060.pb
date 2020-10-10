@@ -1,0 +1,1 @@
+¤ 2xmlXÂhr0src/main/resources/csl-locales/locales-id-ID.xml

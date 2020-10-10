@@ -1,0 +1,1 @@
+¥ 2javaXLhrTsrc/test/java/org/jabref/logic/formatter/bibtexfields/RemoveBracesFormatterTest.java

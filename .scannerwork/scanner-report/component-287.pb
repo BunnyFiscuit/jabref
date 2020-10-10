@@ -1,0 +1,1 @@
+Ÿ 2xmlX„hrYsrc/test/resources/org/jabref/logic/importer/fileformat/EndnoteXmlImporterTestArticle.xml

@@ -1,0 +1,1 @@
+ç_ 2javaX;hrEsrc/main/java/org/jabref/gui/openoffice/StyleSelectItemViewModel.java

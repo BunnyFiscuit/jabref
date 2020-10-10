@@ -1,0 +1,1 @@
+Þ 2xmlXjhr\src/test/resources/org/jabref/logic/importer/fileformat/MedlineImporterTestArticleNoISSN.xml

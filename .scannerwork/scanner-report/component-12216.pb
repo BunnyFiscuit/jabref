@@ -1,0 +1,1 @@
+¸_ 2javaXhr2src/main/java/org/jabref/gui/help/AboutAction.java

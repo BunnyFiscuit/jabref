@@ -1,0 +1,1 @@
+ÀX 2javaXhr9src/main/java/org/jabref/logic/layout/format/Default.java

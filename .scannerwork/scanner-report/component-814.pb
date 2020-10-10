@@ -1,0 +1,1 @@
+® 2javaX hrTsrc/test/java/org/jabref/logic/formatter/bibtexfields/RemoveDigitsFormatterTest.java

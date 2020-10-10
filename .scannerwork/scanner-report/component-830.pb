@@ -1,0 +1,1 @@
+¾ 2javaXhrFsrc/test/java/org/jabref/logic/bibtex/comparator/MetaDataDiffTest.java

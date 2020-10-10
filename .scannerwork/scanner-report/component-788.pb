@@ -1,0 +1,1 @@
+” 2javaX hrQsrc/test/java/org/jabref/logic/formatter/casechanger/CapitalizeFormatterTest.java

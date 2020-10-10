@@ -1,0 +1,1 @@
+Ú] 2javaXhrJsrc/main/java/org/jabref/gui/autocompleter/JournalsSuggestionProvider.java

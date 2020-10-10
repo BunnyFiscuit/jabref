@@ -1,0 +1,1 @@
+Ö^ 2javaXshr<src/main/java/org/jabref/gui/collab/ChangeDisplayDialog.java

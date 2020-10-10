@@ -1,0 +1,1 @@
+§[ 2javaXchr9src/main/java/org/jabref/gui/preferences/FileTabView.java

@@ -1,0 +1,1 @@
+À^ 2javaXPhrRsrc/main/java/org/jabref/gui/externalfiletype/EditExternalFileTypeEntryDialog.java

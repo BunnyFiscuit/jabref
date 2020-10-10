@@ -1,0 +1,1 @@
+Í 2xmlXhrZsrc/test/resources/org/jabref/logic/importer/fileformat/BibTeXMLImporterTestTechReport.xml

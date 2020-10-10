@@ -1,0 +1,1 @@
+Ó_ 2javaX:hr8src/main/java/org/jabref/gui/entryeditor/PreviewTab.java

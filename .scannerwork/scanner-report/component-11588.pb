@@ -1,0 +1,1 @@
+ÄZ 2javaXÔhrGsrc/main/java/org/jabref/logic/exporter/OpenDocumentRepresentation.java

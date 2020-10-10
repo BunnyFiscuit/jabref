@@ -1,0 +1,1 @@
+‚Y 2javaX)hrHsrc/main/java/org/jabref/logic/layout/LayoutFormatterBasedFormatter.java

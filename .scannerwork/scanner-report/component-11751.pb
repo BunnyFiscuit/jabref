@@ -1,0 +1,1 @@
+ç[ 2javaXhrEsrc/main/java/org/jabref/gui/fieldeditors/contextmenu/ClearField.java

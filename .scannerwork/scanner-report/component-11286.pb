@@ -1,0 +1,1 @@
+–X 2javaXEhrDsrc/main/java/org/jabref/logic/util/strings/UnicodeLigaturesMap.java

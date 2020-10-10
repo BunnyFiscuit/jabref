@@ -1,0 +1,1 @@
+Ù 2xmlXhrNsrc/test/resources/org/jabref/logic/exporter/BibTeXMLExporterTestPhdThesis.xml

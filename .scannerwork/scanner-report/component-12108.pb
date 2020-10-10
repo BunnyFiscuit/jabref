@@ -1,0 +1,1 @@
+Ì^ 2javaX9hr=src/main/java/org/jabref/gui/collab/GroupChangeViewModel.java

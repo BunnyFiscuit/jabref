@@ -1,0 +1,1 @@
+É 2javaX#hrAsrc/test/java/org/jabref/logic/layout/format/ToLowerCaseTest.java

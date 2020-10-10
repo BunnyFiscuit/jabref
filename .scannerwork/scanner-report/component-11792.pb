@@ -1,0 +1,1 @@
+\ 2javaXuhr@src/main/java/org/jabref/gui/importer/fetcher/WebSearchPane.java

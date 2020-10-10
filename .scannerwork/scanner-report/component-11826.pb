@@ -1,0 +1,1 @@
+²\ 2javaX%hrHsrc/main/java/org/jabref/gui/util/comparator/RankingFieldComparator.java

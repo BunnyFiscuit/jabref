@@ -1,0 +1,1 @@
+­Y 2javaXhhrDsrc/main/java/org/jabref/logic/xmp/DocumentInformationExtractor.java

@@ -1,0 +1,1 @@
+Ù` 2javaXAhrEsrc/main/java/org/jabref/model/search/rules/RegexBasedSearchRule.java

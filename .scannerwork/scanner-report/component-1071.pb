@@ -1,0 +1,1 @@
+¯ 2xmlX¼hr0src/main/resources/csl-locales/locales-he-IL.xml

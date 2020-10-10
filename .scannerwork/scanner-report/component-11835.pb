@@ -1,0 +1,1 @@
+»\ 2javaXChr>src/main/java/org/jabref/gui/util/IconValidationDecorator.java

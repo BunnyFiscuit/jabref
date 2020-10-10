@@ -1,0 +1,1 @@
+ ] 2javaXÂhr1src/main/java/org/jabref/gui/SidePaneManager.java

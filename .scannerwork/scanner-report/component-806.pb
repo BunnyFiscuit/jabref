@@ -1,0 +1,1 @@
+¦ 2javaXhrRsrc/test/java/org/jabref/logic/formatter/bibtexfields/ShortenDOIFormatterTest.java

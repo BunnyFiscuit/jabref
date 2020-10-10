@@ -1,11 +1,15 @@
 package org.jabref.logic.layout.format;
 
+import java.util.HashMap;
+
 import org.jabref.logic.layout.LayoutFormatter;
 
 /**
  * Change type of record to match the one used by OpenOffice formatter.
  */
 public class GetOpenOfficeType implements LayoutFormatter {
+
+    private final HashMap<String, String> typeDict = new HashMap<>();
 
     @Override
     public String format(String fieldText) {

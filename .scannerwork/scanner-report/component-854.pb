@@ -1,0 +1,1 @@
+Ö 2javaX1hrEsrc/test/java/org/jabref/logic/integrity/AbbreviationCheckerTest.java

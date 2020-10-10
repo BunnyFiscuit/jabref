@@ -1,0 +1,1 @@
+Ç 2xmlXhrUsrc/test/resources/org/jabref/logic/exporter/BibTeXMLExporterTestArticleWithoutID.xml

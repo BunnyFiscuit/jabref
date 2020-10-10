@@ -1,0 +1,1 @@
+¼X 2javaXhrDsrc/main/java/org/jabref/logic/layout/format/EntryTypeFormatter.java

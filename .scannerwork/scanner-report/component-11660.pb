@@ -1,0 +1,1 @@
+Œ[ 2javaX3hr8src/main/java/org/jabref/cli/GenerateCharacterTable.java

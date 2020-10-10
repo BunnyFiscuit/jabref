@@ -1,0 +1,1 @@
+µ_ 2javaXehr4src/main/java/org/jabref/gui/help/VersionWorker.java

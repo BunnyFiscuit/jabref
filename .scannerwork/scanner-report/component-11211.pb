@@ -1,0 +1,1 @@
+ËW 2javaX´hrJsrc/main/java/org/jabref/logic/importer/fileformat/EndnoteXmlImporter.java

@@ -1,0 +1,1 @@
+¹[ 2javaX=hr@src/main/java/org/jabref/gui/preferences/EntryEditorTabView.java

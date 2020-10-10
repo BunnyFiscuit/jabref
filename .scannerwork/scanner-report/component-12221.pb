@@ -1,0 +1,1 @@
+½_ 2javaXÉhr7src/main/java/org/jabref/gui/entryeditor/SourceTab.java

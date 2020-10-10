@@ -1,0 +1,1 @@
+¼ 2xmlXhrEsrc/test/resources/org/jabref/logic/importer/fileformat/emptyFile.xml

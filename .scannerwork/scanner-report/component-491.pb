@@ -1,0 +1,1 @@
+ë 2xmlX,hrOsrc/test/resources/org/jabref/logic/exporter/MsBibExportFormatTestLatexFree.xml

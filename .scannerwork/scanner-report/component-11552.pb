@@ -1,0 +1,1 @@
+ Z 2javaX'hrBsrc/main/java/org/jabref/logic/integrity/HTMLCharacterChecker.java

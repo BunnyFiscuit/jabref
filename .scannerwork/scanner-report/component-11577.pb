@@ -1,0 +1,1 @@
+¹Z 2javaXhrCsrc/main/java/org/jabref/logic/integrity/ASCIICharacterChecker.java

@@ -1,0 +1,1 @@
+Í[ 2javaXshrOsrc/main/java/org/jabref/gui/libraryproperties/LibraryPropertiesDialogView.java
